@@ -1,5 +1,6 @@
 
-# **⚾ Moneyball Project: Uncovering Baseball's Hidden Gems**
+# **⚾ MoneyBall Project: Uncovering Baseball's Hidden Gems**
+**Note: Based On A True Story And Movie Called Moneyball**
 
 
 
